@@ -8,7 +8,7 @@ By downloading and playing Frontyard Football, you agree to the terms outlined i
 
 ## Information We Collect
 
-We do not collect any personally identifiable information from our users, such as your name, email address, or contact details. Your privacy is important to us, and we respect your right to play the Game without sharing personal data.
+We do not collect any personally identifiable information from our users, such as your name, email address, or contact details. Your privacy is important to us, and we respect your right to play the Game without sharing personal data. The only data that we collect is your device type, and that is so that we can distribute ads (only when selected by user) and iAP.
 
 ## Data Stored Locally on Your Device
 
